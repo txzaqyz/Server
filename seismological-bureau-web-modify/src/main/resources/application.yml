@@ -1,0 +1,70 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/power?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+#    username: root
+#    password: public
+    url: jdbc:mysql://192.168.200.101:43680/power?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: power
+    password: power
+
+#    url: jdbc:mysql://localhost:3306/power?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+#    username: root
+#    password: 123456
+    druid:
+      #连接池配置
+      # 初始化连接池数量： 大小，最小，最大连接数
+      initial-size: 5
+      min-idle: 5
+      max-active: 20
+      #配置获取连接等待超时的时间
+      max-wait: 60000
+      #配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+      time-between-eviction-runs-millis: 60000
+      # 配置一个连接在池中最小生存的时间，单位是毫秒
+      min-evictable-idle-time-millis: 30000
+      validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: true
+      test-on-return: false
+      # 是否缓存preparedStatement，也就是PSCache  官方建议MySQL下建议关闭   个人建议如果想用SQL防火墙 建议打开
+      pool-prepared-statements: false
+      max-pool-prepared-statement-per-connection-size: 20
+      # 配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+      filter:
+        stat:
+          merge-sql: true
+          slow-sql-millis: 5000
+
+#mybatis:
+#  configuration:
+#    map-underscore-to-camel-case: true
+
+logging:
+  file:
+    name: logging.log
+
+mqtt:
+  username: admin
+  password: public
+  url: tcp://127.0.0.1:1883
+  keepAliveInterval: 2
+  client:
+    id: mqttId
+  default:
+    topic: topic
+
+xindun:
+  sso:
+    config:
+      accessTokenUri: http://192.168.200.110:8100/cas/oauth2.0/accessToken
+      userInfoUri: http://192.168.200.110:8100/cas/oidc/profile
+      clientId: e4192b4bd1a6fe
+      clientSecret: GEFi1CoFy
+      redirectUri: http://192.168.200.201/login
+      appSecret: Er/TqsUA0wRr+T8fGPAXU2kBz/GEFi1CoFyFbGylSHE=
+      appId: fbfc1213c8264e4192b4bd1a6fead1d3

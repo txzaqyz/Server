@@ -1,0 +1,524 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="seismological-bureau-web-modify:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="seismological-bureau-web-modify.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/seismological-bureau-web-modify/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="station" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot/2.4.5/spring-boot-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark-platform/1.07-1.5.7/flandmark-platform-1.07-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/integration/spring-integration-core/5.4.6/spring-integration-core-5.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.45/tomcat-embed-core-9.0.45.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense-platform/1.12.4-1.5.7/librealsense-platform-1.12.4-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas-platform/0.3.19-1.5.7/openblas-platform-0.3.19-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2/0.2.0-1.5.7/libfreenect2-0.2.0-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/openjfx/javafx-base/11/javafx-base-11-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/auth0/java-jwt/3.4.0/java-jwt-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:linux-x86_64:1.82.0-1.5.7" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect-platform/0.5.7-1.5.7/libfreenect-platform-0.5.7-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture/2.13.3.31-1.5.7/flycapture-2.13.3.31-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv-platform/4.5.5-1.5.7/opencv-platform-4.5.5-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-context/5.3.6/spring-context-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-jcl/5.3.6/spring-jcl-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/openjfx/javafx-base/11/javafx-base-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.45/tomcat-embed-websocket-9.0.45.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp-platform/1.5.7/javacpp-platform-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-logging/2.4.5/spring-boot-starter-logging-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-webmvc/5.3.6/spring-webmvc-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/videoinput/0.200-1.5.7/videoinput-0.200-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract-platform/5.0.1-1.5.7/tesseract-platform-5.0.1-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/mybatis/mybatis-spring/2.0.6/mybatis-spring-2.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture/2.13.3.31-1.5.7/flycapture-2.13.3.31-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:windows-x86:2.13.3.31-1.5.7" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-web/2.4.5/spring-boot-starter-web-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-autoconfigure/2.4.5/spring-boot-autoconfigure-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-messaging/5.3.6/spring-messaging-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-beans/5.3.6/spring-beans-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus-platform/2.3.1-1.5.7/artoolkitplus-platform-2.3.1-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/mybatis/mybatis/3.5.7/mybatis-3.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-jdbc/2.4.5/spring-boot-starter-jdbc-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394-platform/2.2.6-1.5.7/libdc1394-platform-2.2.6-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture-platform/2.13.3.31-1.5.7/flycapture-platform-2.13.3.31-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2-platform/0.2.0-1.5.7/libfreenect2-platform-0.2.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg-platform/5.0-1.5.7/ffmpeg-platform-5.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-aop/2.4.5/spring-boot-starter-aop-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2/0.2.0-1.5.7/libfreenect2-0.2.0-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-tx/5.3.6/spring-tx-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/videoinput/0.200-1.5.7/videoinput-0.200-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture/2.13.3.31-1.5.7/flycapture-2.13.3.31-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-tomcat/2.4.5/spring-boot-starter-tomcat-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-jdbc/5.3.6/spring-jdbc-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:2.13.3.31-1.5.7" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2/0.2.0-1.5.7/libfreenect2-0.2.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/videoinput/0.200-1.5.7/videoinput-0.200-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-json/2.4.5/spring-boot-starter-json-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.2.0/mybatis-spring-boot-autoconfigure-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter/2.4.5/spring-boot-starter-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture/2.13.3.31-1.5.7/flycapture-2.13.3.31-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/retry/spring-retry/1.3.1/spring-retry-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica-platform/1.82.0-1.5.7/leptonica-platform-1.82.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacv/1.5.7/javacv-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2/2.50.0-1.5.7/librealsense2-2.50.0-1.5.7-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacv-platform/1.5.7/javacv-platform-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-expression/5.3.6/spring-expression-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-websocket/2.4.5/spring-boot-starter-websocket-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/integration/spring-integration-stream/5.4.6/spring-integration-stream-5.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.2.5/org.eclipse.paho.client.mqttv3-1.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/alibaba/druid-spring-boot-starter/1.1.22/druid-spring-boot-starter-1.1.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense2-platform/2.50.0-1.5.7/librealsense2-platform-2.50.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/io/projectreactor/reactor-core/3.4.5/reactor-core-3.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/leptonica/1.82.0-1.5.7/leptonica-1.82.0-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flycapture/2.13.3.31-1.5.7/flycapture-2.13.3.31-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.2.0/mybatis-spring-boot-starter-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/videoinput-platform/0.200-1.5.7/videoinput-platform-0.200-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libdc1394/2.2.6-1.5.7/libdc1394-2.2.6-1.5.7-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/opencv/4.5.5-1.5.7/opencv-4.5.5-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-web/5.3.6/spring-web-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/openblas/0.3.19-1.5.7/openblas-0.3.19-1.5.7-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/spring-websocket/5.3.6/spring-websocket-5.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/flandmark/1.07-1.5.7/flandmark-1.07-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/artoolkitplus/2.3.1-1.5.7/artoolkitplus-2.3.1-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/com/alibaba/druid/1.1.22/druid-1.1.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/integration/spring-integration-mqtt/5.4.6/spring-integration-mqtt-5.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/librealsense/1.12.4-1.5.7/librealsense-1.12.4-1.5.7.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:ios-arm64:4.5.5-1.5.7" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2/0.2.0-1.5.7/libfreenect2-0.2.0-1.5.7-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect2/0.2.0-1.5.7/libfreenect2-0.2.0-1.5.7-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/springframework/boot/spring-boot-starter-integration/2.4.5/spring-boot-starter-integration-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4/maven_repository/org/bytedeco/libfreenect/0.5.7-1.5.7/libfreenect-0.5.7-1.5.7-linux-arm64.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+      <element id="library" level="project" name="Maven: com.alibaba:druid-spring-boot-starter:1.1.22" />
+      <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.22" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.62" />
+      <element id="library" level="project" name="Maven: com.auth0:java-jwt:3.4.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.4" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.4" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.4" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.4" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.4" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.4" />
+      <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:2.4.0" />
+      <element id="library" level="project" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" />
+      <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:3.4.5" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.15" />
+      <element id="library" level="project" name="Maven: io.projectreactor:reactor-core:3.4.5" />
+      <element id="library" level="project" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" />
+      <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" />
+      <element id="library" level="project" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" />
+      <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.3.2" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.22" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.10.22" />
+      <element id="library" level="project" name="Maven: net.minidev:accessors-smart:1.2" />
+      <element id="library" level="project" name="Maven: net.minidev:json-smart:2.3" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.13.3" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.13.3" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.45" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.45" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.0" />
+      <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.6" />
+      <element id="library" level="project" name="Maven: org.assertj:assertj-core:3.18.1" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus-platform:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:android-arm64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:android-arm:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:android-x86:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:android-x86_64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:linux-arm64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:linux-armhf:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:linux-ppc64le:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:linux-x86:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:linux-x86_64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:macosx-x86_64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:windows-x86:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:artoolkitplus:windows-x86_64:2.3.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg-platform:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:android-arm64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:android-arm:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:android-x86:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:android-x86_64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:linux-arm64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:linux-armhf:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:linux-ppc64le:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:linux-x86:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:linux-x86_64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:macosx-arm64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:macosx-x86_64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:windows-x86:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:ffmpeg:windows-x86_64:5.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark-platform:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:android-arm64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:android-arm:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:android-x86:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:android-x86_64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:linux-arm64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:linux-armhf:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:linux-ppc64le:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:linux-x86:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:linux-x86_64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:macosx-x86_64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:windows-x86:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flandmark:windows-x86_64:1.07-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture-platform:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:linux-arm64:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:linux-armhf:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:linux-x86:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:linux-x86_64:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:flycapture:windows-x86_64:2.13.3.31-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp-platform:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:android-arm64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:android-arm:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:android-x86:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:android-x86_64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:ios-arm64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:ios-x86_64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:linux-arm64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:linux-armhf:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:linux-ppc64le:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:linux-x86:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:linux-x86_64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:macosx-arm64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:macosx-x86_64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:windows-x86:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:windows-x86_64:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacv-platform:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacv:1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica-platform:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:android-arm64:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:android-arm:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:android-x86:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:android-x86_64:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:linux-arm64:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:linux-armhf:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:linux-ppc64le:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:linux-x86:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:macosx-x86_64:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:windows-x86:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:leptonica:windows-x86_64:1.82.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394-platform:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:linux-arm64:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:linux-armhf:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:linux-ppc64le:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:linux-x86:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:linux-x86_64:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:macosx-x86_64:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:windows-x86:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libdc1394:windows-x86_64:2.2.6-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect-platform:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2-platform:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2:linux-x86:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2:linux-x86_64:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2:macosx-x86_64:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect2:windows-x86_64:0.2.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:linux-arm64:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:linux-armhf:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:linux-ppc64le:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:linux-x86:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:linux-x86_64:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:macosx-x86_64:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:windows-x86:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:libfreenect:windows-x86_64:0.5.7-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense-platform:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2-platform:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:linux-arm64:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:linux-armhf:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:linux-x86:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:linux-x86_64:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:macosx-x86_64:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:windows-x86:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense2:windows-x86_64:2.50.0-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:linux-arm64:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:linux-armhf:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:linux-x86:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:linux-x86_64:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:macosx-x86_64:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:windows-x86:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:librealsense:windows-x86_64:1.12.4-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas-platform:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:android-arm64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:android-arm:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:android-x86:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:android-x86_64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:ios-arm64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:ios-x86_64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:linux-arm64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:linux-armhf:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:linux-ppc64le:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:linux-x86:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:linux-x86_64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:macosx-arm64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:macosx-x86_64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:windows-x86:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:openblas:windows-x86_64:0.3.19-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv-platform:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:android-arm64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:android-arm:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:android-x86:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:android-x86_64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:ios-x86_64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:linux-arm64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:linux-armhf:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:linux-ppc64le:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:linux-x86:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:linux-x86_64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:macosx-arm64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:macosx-x86_64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:windows-x86:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:opencv:windows-x86_64:4.5.5-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract-platform:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:android-arm64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:android-arm:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:android-x86:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:android-x86_64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:linux-arm64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:linux-armhf:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:linux-ppc64le:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:linux-x86:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:linux-x86_64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:macosx-x86_64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:windows-x86:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:tesseract:windows-x86_64:5.0.1-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:videoinput-platform:0.200-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:videoinput:0.200-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:videoinput:windows-x86:0.200-1.5.7" />
+      <element id="library" level="project" name="Maven: org.bytedeco:videoinput:windows-x86_64:0.200-1.5.7" />
+      <element id="library" level="project" name="Maven: org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5" />
+      <element id="library" level="project" name="Maven: org.glassfish:jakarta.el:3.0.3" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest:2.2" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.1" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter:5.7.1" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-core:3.6.28" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-junit-jupiter:3.6.28" />
+      <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.2.0" />
+      <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0" />
+      <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.6" />
+      <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.7" />
+      <element id="library" level="project" name="Maven: org.objenesis:objenesis:3.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:11" />
+      <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
+      <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.4" />
+      <element id="library" level="project" name="Maven: org.reactivestreams:reactive-streams:1.0.3" />
+      <element id="library" level="project" name="Maven: org.skyscreamer:jsonassert:1.5.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.30" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.30" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-integration:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-json:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-test:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-websocket:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-test:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.4.5" />
+      <element id="library" level="project" name="Maven: org.springframework.integration:spring-integration-core:5.4.6" />
+      <element id="library" level="project" name="Maven: org.springframework.integration:spring-integration-mqtt:5.4.6" />
+      <element id="library" level="project" name="Maven: org.springframework.integration:spring-integration-stream:5.4.6" />
+      <element id="library" level="project" name="Maven: org.springframework.retry:spring-retry:1.3.1" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-messaging:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-test:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.6" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-websocket:5.3.6" />
+      <element id="library" level="project" name="Maven: org.xmlunit:xmlunit-core:2.7.0" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.27" />
+    </root>
+  </artifact>
+</component>
